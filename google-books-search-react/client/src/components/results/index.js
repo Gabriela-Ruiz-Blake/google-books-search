@@ -24,7 +24,7 @@ function ResultsCard(props) {
                    TEsting! {props.infoLink}
                 </p>
             <div className="ResultOptions col-1">
-                <a href={props.link} target="_blank">
+                <a href={props.link} target="#">
                     <button className="ViewMore ResultOption">
                         View More
                     </button>
